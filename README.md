@@ -11,5 +11,5 @@
 <br></br>
 
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=akofuuku&show_icons=true&locale=en&layout=compact" alt="akofuuku" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akofuuku&show_icons=true&locale=en&layout=compact" alt="akofuuku" /></p>
 
